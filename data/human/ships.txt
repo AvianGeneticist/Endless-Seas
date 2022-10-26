@@ -790,12 +790,6 @@ ship "Triple E"
 	"final explode" "final explosion large"
 	description "The Triple-E is among the largest freighters ever constructed by humans, able to carry over 200 kilotons of cargo at one time. This does however come at a cost; the ship is unbearably slow when fully loaded, and -- like most freighters -- it lacks any way to defend itself besides simple virtue of being large."
 
-shipyard "Basic Ships"
-	"Gerald"
-	"Ticonderoga"
-	"Triple E"
-	"Finch"
-
 ship "Gerald"
 	sprite "ship/gerald"
 	thumbnail "thumbnail/gerald"
